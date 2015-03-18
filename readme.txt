@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: genweb
 Donate link: http://www.genweb.es
-Tags: text2speech, voice, audio, text to audio, Google translate, Google voice, speech
+Tags: text2speech, voice, audio, text to audio, Google translate, Google voice, speech, text to speech
 Requires at least: 4.0.1
 Tested up to: 4.1.1
 Stable tag: trunk
