@@ -31,17 +31,13 @@ Text 2 Speech supports multiple languages, autoplay and it also downloads every 
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 1. Download & Activate the plugin through the 'Plugins' menu in WordPress
 2. Use shortcode anywhere in your site:
 
 Shortcode examples:
 
-[text2speech_shortcode lang=îenî]This is the most amazing plugin in the world[/text2speech_shortcode]
-[text2speech_shortcode lang=îesî autoplay="1"]Este plugin es la caÒa de EspaÒa[/text2speech_shortcode]
+[text2speech_shortcode lang=‚Äùen‚Äù]This is the most amazing plugin in the world[/text2speech_shortcode]
+[text2speech_shortcode lang=‚Äùes‚Äù autoplay="1"]Este plugin es la ca√±a de Espa√±a[/text2speech_shortcode]
 
 
 == Frequently Asked Questions ==
