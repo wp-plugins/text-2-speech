@@ -26,6 +26,11 @@ Text 2 Speech supports multiple languages, autoplay and it also downloads every 
 * The service  does not support long texts, the plugin will work well for texts under 100 characters.
 * Plugin requires the PHP cURL library installed on your server to work properly.
 
+Usage example:
+
+[text2speech_shortcode lang=”en”]This is the most amazing plugin in the world[/text2speech_shortcode]
+
+[text2speech_shortcode lang=”es” autoplay="1"]Este plugin es la caña de España[/text2speech_shortcode]
 
 
 
@@ -37,6 +42,7 @@ Text 2 Speech supports multiple languages, autoplay and it also downloads every 
 Shortcode examples:
 
 [text2speech_shortcode lang=”en”]This is the most amazing plugin in the world[/text2speech_shortcode]
+
 [text2speech_shortcode lang=”es” autoplay="1"]Este plugin es la caña de España[/text2speech_shortcode]
 
 
