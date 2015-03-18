@@ -32,7 +32,7 @@ Usage example:
 
 [text2speech_shortcode lang=”es” autoplay="1"]Este plugin es la caña de España[/text2speech_shortcode]
 
-Demo and support:
+Demo and support (Spanish and English):
 http://www.genweb.es/plugin-text-2-speech-para-wordpress/
 
 == Installation ==
